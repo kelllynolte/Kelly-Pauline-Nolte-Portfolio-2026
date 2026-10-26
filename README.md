@@ -395,3 +395,39 @@ My contributions include researching the systems, analysing integration requirem
 My industry placement has helped me understand how software development concepts are applied in a professional environment. Working with real project requirements has shown me the importance of clear documentation, communication, security and collaboration. I am continuing to build my technical skills and gain experience that will support my goal of becoming a well-rounded software developer.
 
 ________________________________________
+
+---
+
+## Work-Integrated Learning (WIL) Projects
+
+### Overview
+
+Work-Integrated Learning (WIL) allows me to connect the knowledge and skills gained through my Diploma in Information and Communication Technology at CPUT with practical learning and workplace experience.
+
+My WIL journey includes AI training through CAPACITI and industry placement experience at X Spark, where I have been exposed to technical projects, research, teamwork and software integration requirements.
+
+### Learning and Project Experience
+
+**CAPACITI Training**
+
+During the four-week training programme, I explored AI foundations, chatbot development, content generation, productivity tools, sentiment analysis, data insights and AI solution development. I also worked on practical AI-related applications to strengthen my technical knowledge.
+
+**X Spark Industry Placement**
+
+At X Spark, I have gained exposure to workplace projects and collaborative development activities. My work includes researching application requirements and contributing to documentation for the BeeHive and Purple Bee integration project.
+
+### Skills and Knowledge Applied
+
+- Software development concepts
+- Technical research and documentation
+- Database and API integration concepts
+- Problem-solving and analytical thinking
+- Teamwork and communication
+- GitHub and project documentation
+
+### Reflection on WIL
+
+My WIL experience helps me understand the connection between academic learning and the expectations of the technology industry. It gives me opportunities to strengthen my technical abilities, learn from team members and develop the professional skills needed for a career in software development.
+
+________________________________________
+
