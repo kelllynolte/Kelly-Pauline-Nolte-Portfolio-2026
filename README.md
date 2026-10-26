@@ -349,4 +349,49 @@ A chatbot project developed as part of my practical AI learning.
 
 The CAPACITI programme gave me an opportunity to develop my understanding of AI and explore how it can be used to solve practical problems. Through the training and projects, I gained exposure to chatbot development, content generation, sentiment analysis and AI solution development. This experience provided a foundation for applying my technical knowledge to workplace projects and continuing to develop my software development skills.
 
+________________________________________
 
+---
+
+## X Spark Industry Placement
+
+### Company Overview
+
+X Spark is a technology company focused on technology and AI solutions. During my industry placement, I have had the opportunity to learn about real-world projects, collaborate with team members and apply my technical knowledge in a workplace environment.
+
+### My Experience and Responsibilities
+
+During my placement, I have been developing my understanding of software development, project requirements, technical documentation and system integration.
+
+My experience has included:
+
+- Researching application features and system requirements.
+- Reviewing project documentation to understand system functionality.
+- Exploring how different applications can communicate through APIs.
+- Contributing to the planning and documentation of software integration.
+- Collaborating with team members on project deliverables.
+- Developing my problem-solving, communication and teamwork skills.
+
+### Company Project: BeeHive and Purple Bee Integration
+
+One of the projects I have been working on involves integrating BeeHive, a meeting management application, with Purple Bee, a work-management application.
+
+The purpose of the integration is to allow confirmed action items from BeeHive meetings to be created as tasks in Purple Bee through secure API communication.
+
+My contributions include researching the systems, analysing integration requirements and helping develop the integration documentation and project deliverables.
+
+### Skills Developed
+
+- Software requirements analysis
+- API integration concepts
+- Technical research and documentation
+- Agile project planning
+- Git and GitHub
+- Team collaboration
+- Problem-solving and communication
+
+### Reflection on Industry Placement
+
+My industry placement has helped me understand how software development concepts are applied in a professional environment. Working with real project requirements has shown me the importance of clear documentation, communication, security and collaboration. I am continuing to build my technical skills and gain experience that will support my goal of becoming a well-rounded software developer.
+
+________________________________________
