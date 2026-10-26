@@ -12,11 +12,7 @@ ________________________________________
 
 •	**Full Name:** Kelly Pauline Nolte
 
-•	**Phone:** 071 3646 171
-
 •	**Email:** 218275358@mycput.ac.za
-
-•	**Address:** 33 Visagie Street Parow Valley 7500
 
 
  **Education**
