@@ -294,23 +294,59 @@ ________________________________________
  
 Reflection 3: GitHub Pages 
 
+---
 
-**Situation:**
+## CAPACITI AI Training and Projects
 
-I had to publish my portfolio using GitHub Pages.
+Before continuing my workplace experience at X Spark, I participated in a four-week training programme through CAPACITI. The programme introduced me to Artificial Intelligence (AI), chatbot development, content generation, productivity tools, sentiment analysis, data insights and AI solution development.
 
+### Training Overview
 
-**Task:**
+- **13–17 July 2026:** AI Foundations and Chatbot Development
+- **20–24 July 2026:** Content Generation and AI Productivity
+- **27–31 July 2026:** Sentiment Analysis and Data Insights
+- **3–7 August 2026:** AI Solution Development and Industry Application
 
-My goal was to deploy my repository as a live website.
+### My AI Projects
 
+**1. PurpleMuse**
 
-**Action:**
+A practical AI project developed as part of my learning experience.
 
-I enabled GitHub Pages in the repository settings and selected the main branch.
+[View PurpleMuse on GitHub](https://github.com/kellynolte9/PurpleMuse)
 
+**2. SentiScopeAI**
 
-**Result:**
+An AI project that I explored as part of my practical development work.
 
-My portfolio is now live online and I understand how to deploy projects using GitHub Pages.
+[View SentiScopeAI on GitHub](https://github.com/kellynolte9/SentiScopeAI)
+
+**3. Smart Recipe AI**
+
+An AI application project related to recipes and food ideas.
+
+[View Smart Recipe AI on GitHub](https://github.com/kellynolte9/Smart-Recipe-AI)
+
+**4. AI Content**
+
+A project related to AI-assisted content creation.
+
+[View AI Content on GitHub](https://github.com/kellynolte9/AI-Content)
+
+**5. Study Buddy AI**
+
+An AI project related to supporting studying and learning.
+
+[View Study Buddy AI on GitHub](https://github.com/kellynolte9/Study-BuddyAI)
+
+**6. Ubuntu Navigator AI Chatbot**
+
+A chatbot project developed as part of my practical AI learning.
+
+[View Ubuntu Navigator AI Chatbot on GitHub](https://github.com/kellynolte9/Ubuntu-Navigator-AI-Chatbot-)
+
+### Reflection on CAPACITI
+
+The CAPACITI programme gave me an opportunity to develop my understanding of AI and explore how it can be used to solve practical problems. Through the training and projects, I gained exposure to chatbot development, content generation, sentiment analysis and AI solution development. This experience provided a foundation for applying my technical knowledge to workplace projects and continuing to develop my software development skills.
+
 
