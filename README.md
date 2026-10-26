@@ -462,3 +462,28 @@ My assigned development task was the Dashboard component, `Dashboard.jsx`. This 
 Through SafeBite, I have had the opportunity to develop my understanding of application interfaces, software project structure and the connection between application features and database requirements. The project also demonstrates how software can be used to address a practical everyday problem.
 
 ________________________________________
+
+## WIL Projects and Agile Documentation
+
+This section contains the Agile documentation prepared for my company project at X Spark and my entrepreneurial WIL project, SafeBite.
+
+### 1. X Spark — Company WIL Project
+
+The project focuses on integrating BeeHive with Purple Bee so that confirmed meeting action items can be created as tasks in Purple Bee.
+
+- [Agile Team Charter](agile-team-charter-x-spark.md)
+- [User Stories and Tasks](agile-user-stories-tasks-x-spark.md)
+- [Product Backlog](agile-product-backlog-x-spark.md)
+- [Sprint Backlog](agile-sprint-backlog-x-spark.md)
+- [Agile Logbook](agile-logbook-x-spark.md)
+
+### 2. SafeBite — Entrepreneurial WIL Project
+
+SafeBite is a mobile-first food safety application designed to help users make informed food choices based on their personal health profiles.
+
+- [Agile Project Charter](agile-project-charter-safebite.md)
+- [User Stories and Tasks](agile-user-stories-tasks-safebite.md)
+- [Product Backlog](agile-product-backlog-safebite.md)
+- [Sprint Backlog](agile-sprint-backlog-safebite.md)
+- [Agile Logbook](agile-logbook-safebite.md)
+
