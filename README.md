@@ -431,3 +431,34 @@ My WIL experience helps me understand the connection between academic learning a
 
 ________________________________________
 
+---
+
+## Entrepreneurial WIL Project: SafeBite
+
+### Project Overview
+
+SafeBite is a food-expiry tracking application designed to help users manage food items and keep track of their expiry dates. The project focuses on helping users monitor the food they have stored and receive notifications related to expiry dates.
+
+### Project Objectives
+
+- Allow users to manage their food items.
+- Organise food items into categories.
+- Record and monitor food expiry dates.
+- Support notifications about food items approaching expiry.
+- Help users make better use of the food they have available.
+
+### Technologies
+
+- **Backend:** Spring Boot
+- **Mobile application:** React Native
+- **Database:** Supports user accounts, food items, categories, expiry dates and notifications.
+
+### My Contribution
+
+My assigned development task was the Dashboard component, `Dashboard.jsx`. This involved contributing to the dashboard interface within the SafeBite application.
+
+### Learning Outcomes
+
+Through SafeBite, I have had the opportunity to develop my understanding of application interfaces, software project structure and the connection between application features and database requirements. The project also demonstrates how software can be used to address a practical everyday problem.
+
+________________________________________
