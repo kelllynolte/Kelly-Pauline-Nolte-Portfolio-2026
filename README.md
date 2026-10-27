@@ -310,18 +310,21 @@ Before continuing my workplace experience at X Spark, I participated in a four-w
 A practical AI project developed as part of my learning experience.
 
 [View PurpleMuse on GitHub](https://github.com/kellynolte9/PurpleMuse)
+live application: https://ai-content-studio-we-pwp6.bolt.host/
 
 **2. SentiScopeAI**
 
 An AI project that I explored as part of my practical development work.
 
 [View SentiScopeAI on GitHub](https://github.com/kellynolte9/SentiScopeAI)
+live application: https://sentiscope-ai-sentim-di4g.bolt.host/
 
 **3. Smart Recipe AI**
 
 An AI application project related to recipes and food ideas.
 
 [View Smart Recipe AI on GitHub](https://github.com/kellynolte9/Smart-Recipe-AI)
+live application: https://smart-recipe-ai-750404526181.us-west1.run.app/
 
 **4. AI Content**
 
@@ -329,17 +332,20 @@ A project related to AI-assisted content creation.
 
 [View AI Content on GitHub](https://github.com/kellynolte9/AI-Content)
 
+
 **5. Study Buddy AI**
 
 An AI project related to supporting studying and learning.
 
 [View Study Buddy AI on GitHub](https://github.com/kellynolte9/Study-BuddyAI)
+live application: https://studyflow-ai-platfor-2quz.bolt.host/
 
 **6. Ubuntu Navigator AI Chatbot**
 
 A chatbot project developed as part of my practical AI learning.
 
 [View Ubuntu Navigator AI Chatbot on GitHub](https://github.com/kellynolte9/Ubuntu-Navigator-AI-Chatbot-)
+live application: https://cape-town-aid-guide.lovable.app/
 
 ### Reflection on CAPACITI
 
